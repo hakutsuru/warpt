@@ -1,0 +1,10 @@
+den Adel	Sharon	Female	07/12/1974	Lacrosse	#800000
+Kournikova	Anna	Female	06/03/1975	tennis	purple
+Scabbia	Cristina	Female	06/06/1972	Soccer	#008080
+van Giersbergen	Anneke	Female	03/08/1973	Roller Derby	#FF00FF
+Armstrong	Billy	Male	02/17/1972	Mosh Diving	Black
+Armstrong	Lance	Male	09/18/1971	bike racing	Yellow
+Brady	Tom	Male	08/03/1977	Football	Blue
+Lee	Geddy	Male	07/29/1953	Baseball	PANTONE 17-01929
+Lifeson	Alex	Male	08/27/1953	Golf	PANTONE 18-5424
+Peart	Neil	Male	09/12/1952	Fencing	PANTONE 19-4305

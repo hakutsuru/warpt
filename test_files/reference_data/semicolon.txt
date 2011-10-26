@@ -1,0 +1,4 @@
+Kournikova; Anna; F; 6-3-1975; Female; purple; tennis
+Brady; Tom; E; 8-03-1977; Male; Blue; Football
+Armstrong; Lance; E; 9-18-1971; Male; Yellow; bike racing
+Armstrong; Billy; J; 2-17-1972; Male; Black; Mosh Diving
