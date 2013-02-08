@@ -40,35 +40,35 @@ The code has been slightly modified to export three files instead of a single co
 
 
 ### File Organization
-`warpt/
-	data_batch/
-		test_warpt_batch/
-			data_parsed/
-			data_rejected/
-			log/
-			results/
-			staging/
-	data_drop/
-	README.md
-	test_files/
-		example_run/
-		reference_data/
-			comma.txt
-			pipe.txt
-			semicolon.txt
-		reference_issues/
-			data_issue_date.txt
-			data_issue_name.txt
-			empty.txt
-			format_error.txt
-			format_unknown.txt
-		reference_result/
-			dob-sort.txt
-			gender-sort.txt
-			reverse-name-sort.txt
-	warpt_test.rb
-	warpt.rb
-`
+    warpt/
+        data_batch/
+            test_warpt_batch/
+                data_parsed/
+                data_rejected/
+                log/
+                results/
+                staging/
+        data_drop/
+        README.md
+        test_files/
+            example_run/
+            reference_data/
+                comma.txt
+                pipe.txt
+                semicolon.txt
+            reference_issues/
+                data_issue_date.txt
+                data_issue_name.txt
+                empty.txt
+                format_error.txt
+                format_unknown.txt
+            reference_result/
+                dob-sort.txt
+                gender-sort.txt
+                reverse-name-sort.txt
+        warpt_test.rb
+        warpt.rb
+
 
 
 ### Environment
